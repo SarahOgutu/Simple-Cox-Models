@@ -17,4 +17,4 @@ Ogutu, S., Mohammed, M., \& Mwambi, H. (2024). Investigating the effects of cyto
 ## Paper
 https://doi.org/10.3389/fpubh.2024.1393627
 ## Code Description
-The R markdown file (Paper1Code.Rmd) and a pdf file (Paper1Code.pdf) are provided, and they give a point-by-point step of how the analysis was achieved.
+The R markdown file (Paper1Code.Rmd) and a pdf file (Paper1Code.pdf) are provided, and they give a point-by-point step of how the analysis was achieved. The PDF file can be viewed by downloading it. However, the Rmd file can be viewed here by clicking the file.
