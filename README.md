@@ -6,6 +6,8 @@ Kaplan-Meier curves were employed to evaluate HIV incidence across treatment arm
 ## Project objectives
 1. Determine which cytokine biomarkers and baseline characteristics are most strongly associated with HIV incidence.
 2. Compare the fitted Cox PH models
+## Dataset
+The data (CAP004) used for this analysis was obtained from CAPRISA (https://www.caprisa.org/Pages/CAPRISAStudies).
 ## Paper title
 Investigating the Effects of Cytokine Biomarkers on HIV Incidence: A case study for Individuals Randomized to Pre-Exposure Prophylaxis versus Control
 ## Authors
