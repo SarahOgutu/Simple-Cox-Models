@@ -10,7 +10,7 @@ Kaplan-Meier curves were employed to evaluate HIV incidence across treatment arm
 The data (CAP004) used for this analysis was obtained from CAPRISA (https://www.caprisa.org/Pages/CAPRISAStudies).
 ## Paper
 Title: Investigating the Effects of Cytokine Biomarkers on HIV Incidence: A case study for Individuals Randomized to Pre-Exposure Prophylaxis versus Control
-https://doi.org/10.3389/fpubh.2024.1393627
+(https://doi.org/10.3389/fpubh.2024.1393627)
 ## Authors
 Sarah Ogutu, Mohanad Mohammed, Henry Mwambi
 ## Reference 
